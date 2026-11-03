@@ -26,6 +26,7 @@ void main()
 	printf("Большее число = %d\n", max);
 	printf("Меньшее число = %d\n", min);
 	printf("Первое изменение гит = %d\n", min);
+	printf("Второе изменение сло = %d\n", min);
 }
 //2.1.2
 // #include <stdio.h>
